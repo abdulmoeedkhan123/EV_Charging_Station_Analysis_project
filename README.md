@@ -6,10 +6,11 @@ Python
 Pandas
 NumPy
 SQL
+Big query
 Jupyter Notebook
 
-**Projects** :
-Load Dataset
+**Project Details** :
+Load the dataset of EV Charging Stations in NSW
 Data Insights & Overview
 DATA Quality
 Check Missing Values in Column
