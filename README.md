@@ -1,5 +1,5 @@
-# Data-analysis-projects
-Data Analysis projects
+# EV-analysis-project
+EV charging station analysis on publicly available data from NSW open Datahub
 
 **Technologies** :
 Python
